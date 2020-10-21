@@ -9,4 +9,3 @@ This is an end to end Machine Learning Project. Technologies used were -
 - HTML/CSS/Javascript for UI
 
 Next step is to deploy it to production using Heroku
-https://bangalorehousingpricepredictor.herokuapp.com/
