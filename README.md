@@ -7,3 +7,6 @@ This is an end to end Machine Learning Project. Technologies used were -
 - Jupyter notebook, VS Code as an IDE
 - Python flask for http server
 - HTML/CSS/Javascript for UI
+
+Next step is to deploy it to production using Heroku
+https://bangalorehousingpricepredictor.herokuapp.com/
