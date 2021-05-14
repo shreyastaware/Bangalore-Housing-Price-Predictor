@@ -27,7 +27,7 @@ function onClickedEstimatePrice(){
     var estPrice = document.getElementById("uiEstimatedPrice");
 
     // var url = "http://127.0.0.1:5000/predict_home_price";
-    var url = "https://bangalorehousingpricepredictor.herokuapp.com//predict_home_price";
+    var url = "https://bangalorehousingpricepredictor.herokuapp.com/predict_home_price";
 
     $.post(url, {
         total_sqft: parseFloat(sqft.value),
