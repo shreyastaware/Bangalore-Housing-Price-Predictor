@@ -3,3 +3,9 @@ numpy
 matplotlib
 sklearn
 pandas
+request
+jsonify
+util
+gunicorn
+scikit-learn
+scipy
