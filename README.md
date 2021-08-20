@@ -8,6 +8,8 @@ This is an end to end Machine Learning Project. Technologies used were -
 - Python flask for http server
 - HTML/CSS/Javascript for UI
 
-Next step is to deploy it to production using Heroku
+Project has been deployed to production using Heroku
+
+URL: https://bangalorehousingpricepredictor.herokuapp.com/
 
 ![image](https://user-images.githubusercontent.com/31176404/104717422-4cf3a180-574f-11eb-8a6c-839f08d7021c.png)
